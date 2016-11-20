@@ -1,2 +1,2 @@
 # Docker-Rpi
-Images docker pour raspberry
+Dockerfile pour Raspberry Pi
